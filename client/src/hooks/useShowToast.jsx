@@ -1,4 +1,4 @@
-import {Toaster,toaster} from "@/components/ui/toaster";
+import {toaster} from "@/components/ui/toaster";
 import { useCallback } from "react";
 
 const useShowToast = () => {
